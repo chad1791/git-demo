@@ -2,8 +2,6 @@
 
 testing git...
 
-##Ipsum text below
+##Below is a tree view of the website...
 
-asdlfjk s;dflkjasdf l;kjsdf laksjsdfl jsdfljksds flsadkfj dflkjas sdlkjsdsf sdsldkfja; sdjkff
-
-adding some more ipsum here.. asdflkjasdf slksdfjasldkfj asdlfkjassdfl kasjdflkasjsd falsdkjfsd fl
+    - index.html
